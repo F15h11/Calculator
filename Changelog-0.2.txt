@@ -1,0 +1,5 @@
+Changelog v0.2
+	- struct 'MathTerm' now contains a struct called 'Operand' that can contain either a Value (Q{}) or a MathTerm
+		- If an Operand holds a MathTerm and not a Value, its MathTerm will be solved before the main MathTerm is beeing Calculated
+	- class Converter now detects SubTerms (Because the objects a recursive every SubTerm can contain and (not really) endless amount of SubTerms)itself
+	

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pO5ZnF+m61hQXs/0ylAtcBhKsVafd7ZBT9EfyDdINywLVc0tRHOZ1FQ0t/zp1wPVmsRnC2f9a4tnshqGgNAn/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\OneDrive\\Workspace\\Projects\\Calculator Project\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
